@@ -1,20 +1,66 @@
 {
   "3_body_problems": [
-    ["https://hls03.khcdn.fun/3-Body-ProblemEp1.m3u8", "https://subtitled.site/3.Body.Problem.S01E01.WEBRip.Netflix.en[cc].srt", "1"],
-    ["https://hls03.khcdn.fun/3-Body-ProblemEp2.m3u8", "https://subtitled.site/3.Body.Problem.S01E02.WEBRip.Netflix.en[cc].srt", "2"],
-    ["https://hls03.khcdn.fun/3-Body-ProblemEp3.m3u8", "https://subtitled.site/3.Body.Problem.S01E03.WEBRip.Netflix.en[cc].srt", "3"],
-    ["https://hls03.khcdn.fun/3-Body-ProblemEp4.m3u8","https://subtitled.site/3.Body.Problem.S01E04.WEBRip.Netflix.en[cc].srt", "4"],
-    ["https://hls03.khcdn.fun/3-Body-ProblemEp5.m3u8", "https://subtitled.site/3.Body.Problem.S01E05.WEBRip.Netflix.en[cc].srt", "5"],
-    ["https://hls03.khcdn.fun/3-Body-ProblemEp6.m3u8", "https://subtitled.site/3.Body.Problem.S01E06.WEBRip.Netflix.en[cc].srt", "6"],
-    ["https://hls03.khcdn.fun/3-Body-ProblemEp7.m3u8", "https://subtitled.site/3.Body.Problem.S01E07.WEBRip.Netflix.en[cc].srt", "7"],
-    ["https://hls03.khcdn.fun/3-Body-ProblemEp8.m3u8", "https://subtitled.site/3.Body.Problem.S01E08.WEBRip.Netflix.en[cc].srt", "8"]
-  ],
-
-  "split_video": [
-      ["48599037694752-48599037694752", "Bunly-Feb 2024"],
-      ["127913728368669-127913728368669", "Nara device"],
-      ["234025574103805-234025574103805", "Shadow device"],
-      ["962585191111-962585191111", "Sim 2024 03 09"],
-      ["176305464007513-176305464007513", "myLoptop 2024 03 10"]
+    [
+      "https://hls03.khcdn.fun/3-Body-ProblemEp1.m3u8",
+      "https://subtitled.site/3.Body.Problem.S01E01.WEBRip.Netflix.en[cc].srt",
+      "1"
+    ],
+    [
+      "https://hls03.khcdn.fun/3-Body-ProblemEp2.m3u8",
+      "https://subtitled.site/3.Body.Problem.S01E02.WEBRip.Netflix.en[cc].srt",
+      "2"
+    ],
+    [
+      "https://hls03.khcdn.fun/3-Body-ProblemEp3.m3u8",
+      "https://subtitled.site/3.Body.Problem.S01E03.WEBRip.Netflix.en[cc].srt",
+      "3"
+    ],
+    [
+      "https://hls03.khcdn.fun/3-Body-ProblemEp4.m3u8",
+      "https://subtitled.site/3.Body.Problem.S01E04.WEBRip.Netflix.en[cc].srt",
+      "4"
+    ],
+    [
+      "https://hls03.khcdn.fun/3-Body-ProblemEp5.m3u8",
+      "https://subtitled.site/3.Body.Problem.S01E05.WEBRip.Netflix.en[cc].srt",
+      "5"
+    ],
+    [
+      "https://hls03.khcdn.fun/3-Body-ProblemEp6.m3u8",
+      "https://subtitled.site/3.Body.Problem.S01E06.WEBRip.Netflix.en[cc].srt",
+      "6"
+    ],
+    [
+      "https://hls03.khcdn.fun/3-Body-ProblemEp7.m3u8",
+      "https://subtitled.site/3.Body.Problem.S01E07.WEBRip.Netflix.en[cc].srt",
+      "7"
+    ],
+    [
+      "https://hls03.khcdn.fun/3-Body-ProblemEp8.m3u8",
+      "https://subtitled.site/3.Body.Problem.S01E08.WEBRip.Netflix.en[cc].srt",
+      "8"
     ]
+  ],
+  "split_video": [
+    [
+      "48599037694752-48599037694752",
+      "2024-03-28"
+    ],
+    [
+      "127913728368669-127913728368669",
+      "Nara device"
+    ],
+    [
+      "234025574103805-234025574103805",
+      "Shadow device"
+    ],
+    [
+      "962585191111-962585191111",
+      "Sim 2024 03 09"
+    ],
+    [
+      "176305464007513-176305464007513",
+      "myLoptop 2024 03 10"
+    ]
+  ]
 }
