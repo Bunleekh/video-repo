@@ -1,73 +1,20 @@
 {
-  "Ads": [
-    ["https://www.facebook.com/longbunlyUS/", "Bunly-Feb 2024"],
-    ["127913728368669-127913728368669", "Nara device"],
-    ["234025574103805-234025574103805", "Shadow device"],    
-    ["962582499845-962582499845", "Phearun-14 March 2024"]
+  "3_body_problems": [
+    ["https://hls03.khcdn.fun/3-Body-ProblemEp1.m3u8", "https://subtitled.site/3.Body.Problem.S01E01.WEBRip.Netflix.en[cc].srt", "1"],
+    ["https://hls03.khcdn.fun/3-Body-ProblemEp2.m3u8", "https://subtitled.site/3.Body.Problem.S01E02.WEBRip.Netflix.en[cc].srt", "2"],
+    ["https://hls03.khcdn.fun/3-Body-ProblemEp3.m3u8", "https://subtitled.site/3.Body.Problem.S01E03.WEBRip.Netflix.en[cc].srt", "3"],
+    ["https://hls03.khcdn.fun/3-Body-ProblemEp4.m3u8","https://subtitled.site/3.Body.Problem.S01E04.WEBRip.Netflix.en[cc].srt", "4"],
+    ["https://hls03.khcdn.fun/3-Body-ProblemEp5.m3u8", "https://subtitled.site/3.Body.Problem.S01E05.WEBRip.Netflix.en[cc].srt", "5"],
+    ["https://hls03.khcdn.fun/3-Body-ProblemEp6.m3u8", "https://subtitled.site/3.Body.Problem.S01E06.WEBRip.Netflix.en[cc].srt", "6"],
+    ["https://hls03.khcdn.fun/3-Body-ProblemEp7.m3u8", "https://subtitled.site/3.Body.Problem.S01E07.WEBRip.Netflix.en[cc].srt", "7"],
+    ["https://hls03.khcdn.fun/3-Body-ProblemEp8.m3u8", "https://subtitled.site/3.Body.Problem.S01E08.WEBRip.Netflix.en[cc].srt", "8"]
   ],
-  "Auto_comment": [
-    ["48599037694752-48599037694752", "Bunly-Feb 2024"],
-    ["127913728368669-127913728368669", "Nara device"],
-    ["234025574103805-234025574103805", "Shadow device"],    
-    ["962582499845-962582499845", "Phearun-14 March 2024"]
-  ],
-  "Remove_rocal": [
-    ["48599037694752-48599037694752", "Bunly-Feb 2024"],
-    ["127913728368669-127913728368669", "Nara device"],
-    ["234025574103805-234025574103805", "Shadow device"],
-    ["962585191111-962585191111", "Sim 2024 03 09"],
-    ["176305464007513-176305464007513", "myLoptop 2024 03 10"] 
-  ],
-  "Auto_check_ip": [
-    ["48599037694752-48599037694752", "Bunly-Feb 2024"],
-    ["127913728368669-127913728368669", "Nara device"],
-    ["962582499845-962582499845", "Phearun 2024 03 14"],
-    ["234025574103805-234025574103805", "Shadow device"],
-    ["176305464007513-176305464007513", "myLoptop 2024 03 10"] 
-  ],
-  "Auto_check_ip_Surfshard": [
-    ["99:32:64:c8:90:20-48599037694752", "Bunly-Feb 2024", "2025-03-27"],
-    ["127913728368669-127913728368669", "Nara device", "2025-03-27"],
-    ["962582499845-962582499845", "Phearun 2024 03 14", "2025-03-27"],
-    ["234025574103805-234025574103805", "Shadow device", "2025-03-27"],
-    ["176305464007513-176305464007513", "myLoptop 2024 03 10", "2025-03-27"],
-    ["75:ea:d4:a9:52:a5-269142159453861", "Ladi 2024 03 10", "2025-03-27"]     
-  ],
-  "photo_square": [
-    ["48599037694752-48599037694752", "Bunly-Feb 2024"],
-    ["127913728368669-127913728368669", "Nara device"],
-    ["234025574103805-234025574103805", "Shadow device"],
-    ["962582499845-962582499845", "Phearun 2024 03 14"],
-    ["176305464007513-176305464007513", "myLoptop 2024 03 10"] 
-  ],
-  "Auto_reply": [
-    ["48599037694752-48599037694752", "Bunly-Feb 2024"],
-    ["127913728368669-127913728368669", "Nara device"],
-    ["234025574103805-234025574103805", "Shadow device"],
-    ["962582499845-962582499845", "Phearun 2024 03 14"],
-    ["176305464007513-176305464007513", "myLoptop 2024 03 10"] 
-  ],
-  "Download_instagram": [
-    ["99:32:64:c8:90:20-48599037694752", "Bunly-Feb 2024"],
-    ["127913728368669-127913728368669", "Nara device"],
-    ["234025574103805-234025574103805", "Shadow device"],
-    ["962582499845-962582499845", "Phearun 2024 03 14"],
-    ["7c:f9:f2:e4:c9:93-261614807830419", "85581900874 doctor 2024 03 25"],    
-    ["176305464007513-176305464007513", "myLoptop 2024 03 10"] 
-  ],
-  "Download_facebook": [
-    ["99:32:64:c8:90:20-48599037694752", "Bunly-Feb 2024"],
-    ["127913728368669-127913728368669", "Nara device"],
-    ["234025574103805-234025574103805", "Shadow device"],
-    ["7c:f9:f2:e4:c9:93-261614807830419", "85581900874 doctor 2024 03 25"],
-    ["962582499845-962582499845", "Phearun 2024 03 14"],
-    ["176305464007513-176305464007513", "myLoptop 2024 03 10"] 
-  ],
+
   "split_video": [
       ["48599037694752-48599037694752", "Bunly-Feb 2024"],
       ["127913728368669-127913728368669", "Nara device"],
       ["234025574103805-234025574103805", "Shadow device"],
       ["962585191111-962585191111", "Sim 2024 03 09"],
-      ["176305464007513-176305464007513", "myLoptop 2024 03 10"] 
+      ["176305464007513-176305464007513", "myLoptop 2024 03 10"]
     ]
 }
